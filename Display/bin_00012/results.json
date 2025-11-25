@@ -1,0 +1,143 @@
+{
+  "bin_id": "00012",
+  "expected_items": [
+    {
+      "asin": "B0087Y5ONE",
+      "name": "Nature's Miracle Non-Stick Antimicrobial Scoop & Caddy (P-82036)"
+    },
+    {
+      "asin": "B00V1VSTAA",
+      "name": "Foot Angel Anti-Fatigue Compression Foot Sleeve for Plantar Fasciitis Relief, Large/X-Large"
+    },
+    {
+      "asin": "B0041BT21M",
+      "name": "1 X DVI to DVI LCD Monitor Cable 6 Foot"
+    }
+  ],
+  "expected_count": 3,
+  "detected_count": 8,
+  "correctly_matched": [
+    {
+      "asin": "B0087Y5ONE",
+      "name": "Nature's Miracle Non-Stick Antimicrobial Scoop & Caddy (P-82036)"
+    }
+  ],
+  "missing_items": [
+    {
+      "asin": "B00V1VSTAA",
+      "name": "Foot Angel Anti-Fatigue Compression Foot Sleeve for Plantar Fasciitis Relief, Large/X-Large"
+    },
+    {
+      "asin": "B0041BT21M",
+      "name": "1 X DVI to DVI LCD Monitor Cable 6 Foot"
+    }
+  ],
+  "extra_detections": [],
+  "accuracy": 33.33,
+  "match_details": [
+    {
+      "object_id": 7,
+      "bbox": [
+        216.8878173828125,
+        27.203641891479492,
+        522.0780639648438,
+        229.31597900390625
+      ],
+      "matched_asin": "B0087Y5ONE",
+      "product_name": "Nature's Miracle Non-Stick Antimicrobial Scoop & Caddy (P-82036)",
+      "score": 0.6443977355957031,
+      "status": "\u2705 CORRECT"
+    },
+    {
+      "object_id": 0,
+      "bbox": [
+        44.36592483520508,
+        19.308488845825195,
+        92.0650863647461,
+        195.822509765625
+      ],
+      "matched_asin": "B0087Y5ONE",
+      "product_name": "Nature's Miracle Non-Stick Antimicrobial Scoop & Caddy (P-82036)",
+      "score": 0.5253888964653015,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 1,
+      "bbox": [
+        136.42958068847656,
+        18.92901039123535,
+        191.0142822265625,
+        174.98902893066406
+      ],
+      "matched_asin": "B0087Y5ONE",
+      "product_name": "Nature's Miracle Non-Stick Antimicrobial Scoop & Caddy (P-82036)",
+      "score": 0.5144227743148804,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 2,
+      "bbox": [
+        91.03714752197266,
+        19.185808181762695,
+        140.93801879882812,
+        185.7328643798828
+      ],
+      "matched_asin": "B0087Y5ONE",
+      "product_name": "Nature's Miracle Non-Stick Antimicrobial Scoop & Caddy (P-82036)",
+      "score": 0.5202386975288391,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 3,
+      "bbox": [
+        189.67601013183594,
+        17.965068817138672,
+        257.4393615722656,
+        108.39788818359375
+      ],
+      "matched_asin": "B0087Y5ONE",
+      "product_name": "Nature's Miracle Non-Stick Antimicrobial Scoop & Caddy (P-82036)",
+      "score": 0.5378446578979492,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 4,
+      "bbox": [
+        0.5655971765518188,
+        18.641725540161133,
+        49.65201187133789,
+        291.666259765625
+      ],
+      "matched_asin": "B0087Y5ONE",
+      "product_name": "Nature's Miracle Non-Stick Antimicrobial Scoop & Caddy (P-82036)",
+      "score": 0.5322433114051819,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 5,
+      "bbox": [
+        102.28561401367188,
+        14.957533836364746,
+        524.442626953125,
+        289.2467346191406
+      ],
+      "matched_asin": "B0087Y5ONE",
+      "product_name": "Nature's Miracle Non-Stick Antimicrobial Scoop & Caddy (P-82036)",
+      "score": 0.5751751065254211,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 6,
+      "bbox": [
+        369.6724548339844,
+        42.5480842590332,
+        524.524658203125,
+        228.32708740234375
+      ],
+      "matched_asin": "B0087Y5ONE",
+      "product_name": "Nature's Miracle Non-Stick Antimicrobial Scoop & Caddy (P-82036)",
+      "score": 0.6313098669052124,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    }
+  ]
+}

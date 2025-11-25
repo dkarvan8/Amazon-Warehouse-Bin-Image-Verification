@@ -1,0 +1,104 @@
+{
+  "bin_id": "00300",
+  "expected_items": [
+    {
+      "asin": "B00THAGEHW",
+      "name": "Star Wars Loopin' Chewie Game"
+    },
+    {
+      "asin": "B00EPD6UFM",
+      "name": "Full Extra Long (XL) SureGuard Mattress Protector - 100% Waterproof, Hypoallergenic - Premium Fitted Cotton Terry Cover - 10 Year Warranty"
+    },
+    {
+      "asin": "B00Q3GI8C2",
+      "name": "Fisher-price Little People Disney Princess Rapunzel's Tower"
+    }
+  ],
+  "expected_count": 3,
+  "detected_count": 5,
+  "correctly_matched": [
+    {
+      "asin": "B00THAGEHW",
+      "name": "Star Wars Loopin' Chewie Game"
+    },
+    {
+      "asin": "B00Q3GI8C2",
+      "name": "Fisher-price Little People Disney Princess Rapunzel's Tower"
+    }
+  ],
+  "missing_items": [
+    {
+      "asin": "B00EPD6UFM",
+      "name": "Full Extra Long (XL) SureGuard Mattress Protector - 100% Waterproof, Hypoallergenic - Premium Fitted Cotton Terry Cover - 10 Year Warranty"
+    }
+  ],
+  "extra_detections": [],
+  "accuracy": 66.67,
+  "match_details": [
+    {
+      "object_id": 0,
+      "bbox": [
+        0.0,
+        210.89306640625,
+        321.1307373046875,
+        910.5228271484375
+      ],
+      "matched_asin": "B00Q3GI8C2",
+      "product_name": "Fisher-price Little People Disney Princess Rapunzel's Tower",
+      "score": 0.6983568668365479,
+      "status": "\u2705 CORRECT"
+    },
+    {
+      "object_id": 4,
+      "bbox": [
+        507.0914001464844,
+        304.7152404785156,
+        683.5880737304688,
+        903.285888671875
+      ],
+      "matched_asin": "B00THAGEHW",
+      "product_name": "Star Wars Loopin' Chewie Game",
+      "score": 0.6420345902442932,
+      "status": "\u2705 CORRECT"
+    },
+    {
+      "object_id": 1,
+      "bbox": [
+        353.4618835449219,
+        435.39727783203125,
+        494.41925048828125,
+        838.49853515625
+      ],
+      "matched_asin": "B00Q3GI8C2",
+      "product_name": "Fisher-price Little People Disney Princess Rapunzel's Tower",
+      "score": 0.5848010778427124,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 2,
+      "bbox": [
+        0.0,
+        662.1702270507812,
+        180.76744079589844,
+        898.9317016601562
+      ],
+      "matched_asin": "B00Q3GI8C2",
+      "product_name": "Fisher-price Little People Disney Princess Rapunzel's Tower",
+      "score": 0.6019716858863831,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 3,
+      "bbox": [
+        319.42877197265625,
+        319.6545104980469,
+        517.2118530273438,
+        905.96337890625
+      ],
+      "matched_asin": "B00Q3GI8C2",
+      "product_name": "Fisher-price Little People Disney Princess Rapunzel's Tower",
+      "score": 0.5551865100860596,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    }
+  ]
+}

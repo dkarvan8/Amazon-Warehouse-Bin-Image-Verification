@@ -1,0 +1,707 @@
+{
+  "total_bins": 9,
+  "total_expected_items": 21,
+  "total_detected_items": 8,
+  "total_correct_items": 8,
+  "high_confidence_matches": 2,
+  "high_confidence_rate": 25.0,
+  "average_ensemble_accuracy": 38.89,
+  "average_clip_accuracy": 38.89,
+  "improvement": 0.0,
+  "bin_results": [
+    {
+      "bin_id": "00001",
+      "ensemble_matches": [
+        {
+          "object_id": 1,
+          "final_asin": "B000C33MI2",
+          "confidence": "HIGH",
+          "combined_score": 0.761,
+          "clip_asin": "B000C33MI2",
+          "clip_score": 0.658,
+          "ocr_asin": "B000C33MI2",
+          "ocr_score": 100.0,
+          "agreement": "\u2705 BOTH AGREE"
+        }
+      ],
+      "all_matches": [
+        {
+          "object_id": 1,
+          "final_asin": "B000C33MI2",
+          "confidence": "HIGH",
+          "combined_score": 0.761,
+          "clip_asin": "B000C33MI2",
+          "clip_score": 0.658,
+          "ocr_asin": "B000C33MI2",
+          "ocr_score": 100.0,
+          "agreement": "\u2705 BOTH AGREE"
+        },
+        {
+          "object_id": 0,
+          "final_asin": "B000C33MI2",
+          "confidence": "HIGH",
+          "combined_score": 0.72,
+          "clip_asin": "B000C33MI2",
+          "clip_score": 0.6,
+          "ocr_asin": "B000C33MI2",
+          "ocr_score": 100.0,
+          "agreement": "\u2705 BOTH AGREE"
+        },
+        {
+          "object_id": 2,
+          "final_asin": "B000C33MI2",
+          "confidence": "MEDIUM",
+          "combined_score": 0.274,
+          "clip_asin": "B000C33MI2",
+          "clip_score": 0.392,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 3,
+          "final_asin": "B000C33MI2",
+          "confidence": "MEDIUM",
+          "combined_score": 0.272,
+          "clip_asin": "B000C33MI2",
+          "clip_score": 0.389,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 4,
+          "final_asin": "B000C33MI2",
+          "confidence": "MEDIUM",
+          "combined_score": 0.268,
+          "clip_asin": "B000C33MI2",
+          "clip_score": 0.383,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        }
+      ],
+      "ensemble_accuracy": 33.33,
+      "clip_accuracy": 33.33,
+      "total_expected": 3,
+      "total_detected": 1,
+      "correct_items": 1,
+      "missing_items": [
+        {
+          "asin": "B01BV89HNU",
+          "expected": 1,
+          "detected": 0,
+          "missing": 1
+        },
+        {
+          "asin": "B0050Z27KG",
+          "expected": 1,
+          "detected": 0,
+          "missing": 1
+        }
+      ],
+      "extra_items": [],
+      "detected_counts": {
+        "B000C33MI2": 1
+      }
+    },
+    {
+      "bin_id": "00012",
+      "ensemble_matches": [
+        {
+          "object_id": 7,
+          "final_asin": "B0087Y5ONE",
+          "confidence": "MEDIUM",
+          "combined_score": 0.451,
+          "clip_asin": "B0087Y5ONE",
+          "clip_score": 0.644,
+          "ocr_asin": "None",
+          "ocr_score": 54.54545454545454,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        }
+      ],
+      "all_matches": [
+        {
+          "object_id": 7,
+          "final_asin": "B0087Y5ONE",
+          "confidence": "MEDIUM",
+          "combined_score": 0.451,
+          "clip_asin": "B0087Y5ONE",
+          "clip_score": 0.644,
+          "ocr_asin": "None",
+          "ocr_score": 54.54545454545454,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 0,
+          "final_asin": "B0087Y5ONE",
+          "confidence": "MEDIUM",
+          "combined_score": 0.368,
+          "clip_asin": "B0087Y5ONE",
+          "clip_score": 0.525,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 1,
+          "final_asin": "B0087Y5ONE",
+          "confidence": "MEDIUM",
+          "combined_score": 0.36,
+          "clip_asin": "B0087Y5ONE",
+          "clip_score": 0.514,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 2,
+          "final_asin": "B0087Y5ONE",
+          "confidence": "MEDIUM",
+          "combined_score": 0.364,
+          "clip_asin": "B0087Y5ONE",
+          "clip_score": 0.52,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 3,
+          "final_asin": "B0087Y5ONE",
+          "confidence": "MEDIUM",
+          "combined_score": 0.376,
+          "clip_asin": "B0087Y5ONE",
+          "clip_score": 0.538,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 4,
+          "final_asin": "B0087Y5ONE",
+          "confidence": "MEDIUM",
+          "combined_score": 0.373,
+          "clip_asin": "B0087Y5ONE",
+          "clip_score": 0.532,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 5,
+          "final_asin": "B0087Y5ONE",
+          "confidence": "MEDIUM",
+          "combined_score": 0.403,
+          "clip_asin": "B0087Y5ONE",
+          "clip_score": 0.575,
+          "ocr_asin": "None",
+          "ocr_score": 54.54545454545454,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 6,
+          "final_asin": "B0087Y5ONE",
+          "confidence": "MEDIUM",
+          "combined_score": 0.442,
+          "clip_asin": "B0087Y5ONE",
+          "clip_score": 0.631,
+          "ocr_asin": "None",
+          "ocr_score": 44.44444444444444,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        }
+      ],
+      "ensemble_accuracy": 33.33,
+      "clip_accuracy": 33.33,
+      "total_expected": 3,
+      "total_detected": 1,
+      "correct_items": 1,
+      "missing_items": [
+        {
+          "asin": "B00V1VSTAA",
+          "expected": 1,
+          "detected": 0,
+          "missing": 1
+        },
+        {
+          "asin": "B0041BT21M",
+          "expected": 1,
+          "detected": 0,
+          "missing": 1
+        }
+      ],
+      "extra_items": [],
+      "detected_counts": {
+        "B0087Y5ONE": 1
+      }
+    },
+    {
+      "bin_id": "00075",
+      "ensemble_matches": [
+        {
+          "object_id": 2,
+          "final_asin": "0545119367",
+          "confidence": "HIGH",
+          "combined_score": 0.634,
+          "clip_asin": "0545119367",
+          "clip_score": 0.477,
+          "ocr_asin": "0545119367",
+          "ocr_score": 100.0,
+          "agreement": "\u2705 BOTH AGREE"
+        }
+      ],
+      "all_matches": [
+        {
+          "object_id": 1,
+          "final_asin": "0545119367",
+          "confidence": "HIGH",
+          "combined_score": 0.619,
+          "clip_asin": "0545119367",
+          "clip_score": 0.509,
+          "ocr_asin": "0545119367",
+          "ocr_score": 87.5,
+          "agreement": "\u2705 BOTH AGREE"
+        },
+        {
+          "object_id": 0,
+          "final_asin": "0545119367",
+          "confidence": "MEDIUM",
+          "combined_score": 0.345,
+          "clip_asin": "0545119367",
+          "clip_score": 0.494,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 2,
+          "final_asin": "0545119367",
+          "confidence": "HIGH",
+          "combined_score": 0.634,
+          "clip_asin": "0545119367",
+          "clip_score": 0.477,
+          "ocr_asin": "0545119367",
+          "ocr_score": 100.0,
+          "agreement": "\u2705 BOTH AGREE"
+        },
+        {
+          "object_id": 3,
+          "final_asin": "0545119367",
+          "confidence": "MEDIUM",
+          "combined_score": 0.327,
+          "clip_asin": "0545119367",
+          "clip_score": 0.467,
+          "ocr_asin": "None",
+          "ocr_score": 66.66666666666667,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 4,
+          "final_asin": "0545119367",
+          "confidence": "HIGH",
+          "combined_score": 0.563,
+          "clip_asin": "0545119367",
+          "clip_score": 0.43,
+          "ocr_asin": "0545119367",
+          "ocr_score": 87.5,
+          "agreement": "\u2705 BOTH AGREE"
+        }
+      ],
+      "ensemble_accuracy": 50.0,
+      "clip_accuracy": 50.0,
+      "total_expected": 2,
+      "total_detected": 1,
+      "correct_items": 1,
+      "missing_items": [
+        {
+          "asin": "B0007L1VLO",
+          "expected": 1,
+          "detected": 0,
+          "missing": 1
+        }
+      ],
+      "extra_items": [],
+      "detected_counts": {
+        "0545119367": 1
+      }
+    },
+    {
+      "bin_id": "00107",
+      "ensemble_matches": [],
+      "all_matches": [],
+      "ensemble_accuracy": 0.0,
+      "clip_accuracy": 0.0,
+      "total_expected": 2,
+      "total_detected": 0,
+      "correct_items": 0,
+      "missing_items": [
+        {
+          "asin": "B012IMW5EG",
+          "expected": 1,
+          "detected": 0,
+          "missing": 1
+        },
+        {
+          "asin": "B000I0TZO4",
+          "expected": 1,
+          "detected": 0,
+          "missing": 1
+        }
+      ],
+      "extra_items": [],
+      "detected_counts": {}
+    },
+    {
+      "bin_id": "00119",
+      "ensemble_matches": [
+        {
+          "object_id": 5,
+          "final_asin": "B00NJ008MI",
+          "confidence": "MEDIUM",
+          "combined_score": 0.359,
+          "clip_asin": "B00NJ008MI",
+          "clip_score": 0.513,
+          "ocr_asin": "None",
+          "ocr_score": 50.0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        }
+      ],
+      "all_matches": [
+        {
+          "object_id": 5,
+          "final_asin": "B00NJ008MI",
+          "confidence": "MEDIUM",
+          "combined_score": 0.359,
+          "clip_asin": "B00NJ008MI",
+          "clip_score": 0.513,
+          "ocr_asin": "None",
+          "ocr_score": 50.0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 0,
+          "final_asin": "B00NJ008MI",
+          "confidence": "MEDIUM",
+          "combined_score": 0.358,
+          "clip_asin": "B00NJ008MI",
+          "clip_score": 0.512,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 1,
+          "final_asin": "B00NJ008MI",
+          "confidence": "MEDIUM",
+          "combined_score": 0.336,
+          "clip_asin": "B00NJ008MI",
+          "clip_score": 0.48,
+          "ocr_asin": "None",
+          "ocr_score": 66.66666666666667,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 2,
+          "final_asin": "B00NJ008MI",
+          "confidence": "MEDIUM",
+          "combined_score": 0.327,
+          "clip_asin": "B00NJ008MI",
+          "clip_score": 0.467,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 3,
+          "final_asin": "B00NJ008MI",
+          "confidence": "MEDIUM",
+          "combined_score": 0.334,
+          "clip_asin": "B00NJ008MI",
+          "clip_score": 0.477,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 4,
+          "final_asin": "B00NJ008MI",
+          "confidence": "MEDIUM",
+          "combined_score": 0.348,
+          "clip_asin": "B00NJ008MI",
+          "clip_score": 0.497,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        }
+      ],
+      "ensemble_accuracy": 33.33,
+      "clip_accuracy": 33.33,
+      "total_expected": 3,
+      "total_detected": 1,
+      "correct_items": 1,
+      "missing_items": [
+        {
+          "asin": "B004Q0PN0W",
+          "expected": 1,
+          "detected": 0,
+          "missing": 1
+        },
+        {
+          "asin": "B01E670AOS",
+          "expected": 1,
+          "detected": 0,
+          "missing": 1
+        }
+      ],
+      "extra_items": [],
+      "detected_counts": {
+        "B00NJ008MI": 1
+      }
+    },
+    {
+      "bin_id": "00161",
+      "ensemble_matches": [
+        {
+          "object_id": 0,
+          "final_asin": "B002SB8LLE",
+          "confidence": "MEDIUM",
+          "combined_score": 0.366,
+          "clip_asin": "B002SB8LLE",
+          "clip_score": 0.523,
+          "ocr_asin": "None",
+          "ocr_score": 46.15384615384615,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        }
+      ],
+      "all_matches": [
+        {
+          "object_id": 0,
+          "final_asin": "B002SB8LLE",
+          "confidence": "MEDIUM",
+          "combined_score": 0.366,
+          "clip_asin": "B002SB8LLE",
+          "clip_score": 0.523,
+          "ocr_asin": "None",
+          "ocr_score": 46.15384615384615,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 1,
+          "final_asin": "B002SB8LLE",
+          "confidence": "MEDIUM",
+          "combined_score": 0.325,
+          "clip_asin": "B002SB8LLE",
+          "clip_score": 0.465,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 2,
+          "final_asin": "B002SB8LLE",
+          "confidence": "MEDIUM",
+          "combined_score": 0.29,
+          "clip_asin": "B002SB8LLE",
+          "clip_score": 0.414,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        }
+      ],
+      "ensemble_accuracy": 33.33,
+      "clip_accuracy": 33.33,
+      "total_expected": 3,
+      "total_detected": 1,
+      "correct_items": 1,
+      "missing_items": [
+        {
+          "asin": "B013OVOO6M",
+          "expected": 1,
+          "detected": 0,
+          "missing": 1
+        },
+        {
+          "asin": "B011XM4GJO",
+          "expected": 1,
+          "detected": 0,
+          "missing": 1
+        }
+      ],
+      "extra_items": [],
+      "detected_counts": {
+        "B002SB8LLE": 1
+      }
+    },
+    {
+      "bin_id": "00239",
+      "ensemble_matches": [
+        {
+          "object_id": 0,
+          "final_asin": "B000BQMWQ8",
+          "confidence": "MEDIUM",
+          "combined_score": 0.241,
+          "clip_asin": "B000BQMWQ8",
+          "clip_score": 0.345,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        }
+      ],
+      "all_matches": [
+        {
+          "object_id": 0,
+          "final_asin": "B000BQMWQ8",
+          "confidence": "MEDIUM",
+          "combined_score": 0.241,
+          "clip_asin": "B000BQMWQ8",
+          "clip_score": 0.345,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 1,
+          "final_asin": "B000BQMWQ8",
+          "confidence": "MEDIUM",
+          "combined_score": 0.222,
+          "clip_asin": "B000BQMWQ8",
+          "clip_score": 0.317,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        }
+      ],
+      "ensemble_accuracy": 100.0,
+      "clip_accuracy": 100.0,
+      "total_expected": 1,
+      "total_detected": 1,
+      "correct_items": 1,
+      "missing_items": [],
+      "extra_items": [],
+      "detected_counts": {
+        "B000BQMWQ8": 1
+      }
+    },
+    {
+      "bin_id": "00300",
+      "ensemble_matches": [
+        {
+          "object_id": 0,
+          "final_asin": "B00Q3GI8C2",
+          "confidence": "MEDIUM",
+          "combined_score": 0.489,
+          "clip_asin": "B00Q3GI8C2",
+          "clip_score": 0.698,
+          "ocr_asin": "None",
+          "ocr_score": 35.71428571428571,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 4,
+          "final_asin": "B00THAGEHW",
+          "confidence": "MEDIUM",
+          "combined_score": 0.449,
+          "clip_asin": "B00THAGEHW",
+          "clip_score": 0.642,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        }
+      ],
+      "all_matches": [
+        {
+          "object_id": 0,
+          "final_asin": "B00Q3GI8C2",
+          "confidence": "MEDIUM",
+          "combined_score": 0.489,
+          "clip_asin": "B00Q3GI8C2",
+          "clip_score": 0.698,
+          "ocr_asin": "None",
+          "ocr_score": 35.71428571428571,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 4,
+          "final_asin": "B00THAGEHW",
+          "confidence": "MEDIUM",
+          "combined_score": 0.449,
+          "clip_asin": "B00THAGEHW",
+          "clip_score": 0.642,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 1,
+          "final_asin": "B00Q3GI8C2",
+          "confidence": "MEDIUM",
+          "combined_score": 0.409,
+          "clip_asin": "B00Q3GI8C2",
+          "clip_score": 0.585,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 2,
+          "final_asin": "B00Q3GI8C2",
+          "confidence": "MEDIUM",
+          "combined_score": 0.421,
+          "clip_asin": "B00Q3GI8C2",
+          "clip_score": 0.602,
+          "ocr_asin": "None",
+          "ocr_score": 50.0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        },
+        {
+          "object_id": 3,
+          "final_asin": "B00Q3GI8C2",
+          "confidence": "MEDIUM",
+          "combined_score": 0.389,
+          "clip_asin": "B00Q3GI8C2",
+          "clip_score": 0.555,
+          "ocr_asin": "None",
+          "ocr_score": 0,
+          "agreement": "\u26a0\ufe0f CLIP ONLY"
+        }
+      ],
+      "ensemble_accuracy": 66.67,
+      "clip_accuracy": 66.67,
+      "total_expected": 3,
+      "total_detected": 2,
+      "correct_items": 2,
+      "missing_items": [
+        {
+          "asin": "B00EPD6UFM",
+          "expected": 1,
+          "detected": 0,
+          "missing": 1
+        }
+      ],
+      "extra_items": [],
+      "detected_counts": {
+        "B00Q3GI8C2": 1,
+        "B00THAGEHW": 1
+      }
+    },
+    {
+      "bin_id": "00312",
+      "ensemble_matches": [],
+      "all_matches": [],
+      "ensemble_accuracy": 0.0,
+      "clip_accuracy": 0.0,
+      "total_expected": 1,
+      "total_detected": 0,
+      "correct_items": 0,
+      "missing_items": [
+        {
+          "asin": "B00VANYCBE",
+          "expected": 1,
+          "detected": 0,
+          "missing": 1
+        }
+      ],
+      "extra_items": [],
+      "detected_counts": {}
+    }
+  ]
+}

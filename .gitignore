@@ -1,0 +1,11 @@
+echo __pycache__/
+*.pyc
+*.pyo
+temp_uploads/
+reference_images/
+annotated_images/
+detector.py
+detections.json
+.streamlit/
+.DS_Store
+Thumbs.db > .gitignore

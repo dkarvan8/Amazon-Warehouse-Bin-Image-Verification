@@ -1,0 +1,104 @@
+{
+  "bin_id": "00001",
+  "expected_items": [
+    {
+      "asin": "B01BV89HNU",
+      "name": "Type C, iOrange-E 2 Pack 6.6 Ft Braided Cable for Nexus 6P, Nexus 5X, Onplus 2, Lumia 950, LG G5, Apple Macbook 12 inch, ChromeBook Pixel, Nokia N1 Tablet and Other USB C Devices, Black"
+    },
+    {
+      "asin": "B000C33MI2",
+      "name": "FRAM XG7317 ULTRA Spin-On Oil Filter with Sure Grip"
+    },
+    {
+      "asin": "B0050Z27KG",
+      "name": "Suncatcher - Axicon Rainbow Window - Includes Bonus \"Rainbow on Board\" Sun Catcher"
+    }
+  ],
+  "expected_count": 3,
+  "detected_count": 5,
+  "correctly_matched": [
+    {
+      "asin": "B000C33MI2",
+      "name": "FRAM XG7317 ULTRA Spin-On Oil Filter with Sure Grip"
+    }
+  ],
+  "missing_items": [
+    {
+      "asin": "B01BV89HNU",
+      "name": "Type C, iOrange-E 2 Pack 6.6 Ft Braided Cable for Nexus 6P, Nexus 5X, Onplus 2, Lumia 950, LG G5, Apple Macbook 12 inch, ChromeBook Pixel, Nokia N1 Tablet and Other USB C Devices, Black"
+    },
+    {
+      "asin": "B0050Z27KG",
+      "name": "Suncatcher - Axicon Rainbow Window - Includes Bonus \"Rainbow on Board\" Sun Catcher"
+    }
+  ],
+  "extra_detections": [],
+  "accuracy": 33.33,
+  "match_details": [
+    {
+      "object_id": 1,
+      "bbox": [
+        22.281280517578125,
+        109.54497528076172,
+        152.52154541015625,
+        259.5278015136719
+      ],
+      "matched_asin": "B000C33MI2",
+      "product_name": "FRAM XG7317 ULTRA Spin-On Oil Filter with Sure Grip",
+      "score": 0.6583371758460999,
+      "status": "\u2705 CORRECT"
+    },
+    {
+      "object_id": 0,
+      "bbox": [
+        21.64874839782715,
+        20.58800506591797,
+        153.18856811523438,
+        259.73468017578125
+      ],
+      "matched_asin": "B000C33MI2",
+      "product_name": "FRAM XG7317 ULTRA Spin-On Oil Filter with Sure Grip",
+      "score": 0.5999927520751953,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 2,
+      "bbox": [
+        145.1561279296875,
+        9.429393768310547,
+        252.05673217773438,
+        267.2795715332031
+      ],
+      "matched_asin": "B000C33MI2",
+      "product_name": "FRAM XG7317 ULTRA Spin-On Oil Filter with Sure Grip",
+      "score": 0.3917146921157837,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 3,
+      "bbox": [
+        348.4748229980469,
+        5.684571266174316,
+        492.9805603027344,
+        260.3076171875
+      ],
+      "matched_asin": "B000C33MI2",
+      "product_name": "FRAM XG7317 ULTRA Spin-On Oil Filter with Sure Grip",
+      "score": 0.38861340284347534,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 4,
+      "bbox": [
+        248.24842834472656,
+        6.899930000305176,
+        350.1987609863281,
+        254.45394897460938
+      ],
+      "matched_asin": "B000C33MI2",
+      "product_name": "FRAM XG7317 ULTRA Spin-On Oil Filter with Sure Grip",
+      "score": 0.3831580877304077,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    }
+  ]
+}

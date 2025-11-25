@@ -1,0 +1,29 @@
+{
+  "bin_id": "00107",
+  "expected_items": [
+    {
+      "asin": "B012IMW5EG",
+      "name": "ActionPie Qi Wireless 12000mAH Power Bank with Dual USB Port and LCD Display for Galaxy S6, iphone6 - Silver"
+    },
+    {
+      "asin": "B000I0TZO4",
+      "name": "Sharpie Permanent Marker, Fine Point, Black, Pack of 5"
+    }
+  ],
+  "expected_count": 2,
+  "detected_count": 0,
+  "correctly_matched": [],
+  "missing_items": [
+    {
+      "asin": "B012IMW5EG",
+      "name": "ActionPie Qi Wireless 12000mAH Power Bank with Dual USB Port and LCD Display for Galaxy S6, iphone6 - Silver"
+    },
+    {
+      "asin": "B000I0TZO4",
+      "name": "Sharpie Permanent Marker, Fine Point, Black, Pack of 5"
+    }
+  ],
+  "extra_detections": [],
+  "accuracy": 0.0,
+  "match_details": []
+}

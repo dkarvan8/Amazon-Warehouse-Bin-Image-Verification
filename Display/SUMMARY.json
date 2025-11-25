@@ -1,0 +1,75 @@
+{
+  "total_bins": 9,
+  "perfect_match_bins": 1,
+  "average_accuracy": 38.89,
+  "total_expected": 21,
+  "total_detected": 34,
+  "total_correct": 8,
+  "detection_rate": 161.9,
+  "match_accuracy": 38.1,
+  "bin_summaries": [
+    {
+      "bin_id": "00001",
+      "accuracy": 33.33,
+      "expected": 3,
+      "detected": 5,
+      "correct": 1
+    },
+    {
+      "bin_id": "00012",
+      "accuracy": 33.33,
+      "expected": 3,
+      "detected": 8,
+      "correct": 1
+    },
+    {
+      "bin_id": "00075",
+      "accuracy": 50.0,
+      "expected": 2,
+      "detected": 5,
+      "correct": 1
+    },
+    {
+      "bin_id": "00107",
+      "accuracy": 0.0,
+      "expected": 2,
+      "detected": 0,
+      "correct": 0
+    },
+    {
+      "bin_id": "00119",
+      "accuracy": 33.33,
+      "expected": 3,
+      "detected": 6,
+      "correct": 1
+    },
+    {
+      "bin_id": "00161",
+      "accuracy": 33.33,
+      "expected": 3,
+      "detected": 3,
+      "correct": 1
+    },
+    {
+      "bin_id": "00239",
+      "accuracy": 100.0,
+      "expected": 1,
+      "detected": 2,
+      "correct": 1
+    },
+    {
+      "bin_id": "00300",
+      "accuracy": 66.67,
+      "expected": 3,
+      "detected": 5,
+      "correct": 2
+    },
+    {
+      "bin_id": "00312",
+      "accuracy": 0.0,
+      "expected": 1,
+      "detected": 0,
+      "correct": 0
+    }
+  ]
+}

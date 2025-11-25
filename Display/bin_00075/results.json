@@ -1,0 +1,96 @@
+{
+  "bin_id": "00075",
+  "expected_items": [
+    {
+      "asin": "B0007L1VLO",
+      "name": "BIC Pencil Xtra Sparkle (colorful barrels), Medium Point (0.7 mm), 24-Count"
+    },
+    {
+      "asin": "0545119367",
+      "name": "Scholastic TF7504 The Farm Magnetic Pattern Blocks"
+    }
+  ],
+  "expected_count": 2,
+  "detected_count": 5,
+  "correctly_matched": [
+    {
+      "asin": "0545119367",
+      "name": "Scholastic TF7504 The Farm Magnetic Pattern Blocks"
+    }
+  ],
+  "missing_items": [
+    {
+      "asin": "B0007L1VLO",
+      "name": "BIC Pencil Xtra Sparkle (colorful barrels), Medium Point (0.7 mm), 24-Count"
+    }
+  ],
+  "extra_detections": [],
+  "accuracy": 50.0,
+  "match_details": [
+    {
+      "object_id": 1,
+      "bbox": [
+        7.36214017868042,
+        21.645458221435547,
+        393.411865234375,
+        179.44496154785156
+      ],
+      "matched_asin": "0545119367",
+      "product_name": "Scholastic TF7504 The Farm Magnetic Pattern Blocks",
+      "score": 0.5088207721710205,
+      "status": "\u2705 CORRECT"
+    },
+    {
+      "object_id": 0,
+      "bbox": [
+        29.008230209350586,
+        154.0866241455078,
+        433.8930969238281,
+        256.997314453125
+      ],
+      "matched_asin": "0545119367",
+      "product_name": "Scholastic TF7504 The Farm Magnetic Pattern Blocks",
+      "score": 0.4935005307197571,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 2,
+      "bbox": [
+        11.23440933227539,
+        40.367820739746094,
+        431.71221923828125,
+        209.78883361816406
+      ],
+      "matched_asin": "0545119367",
+      "product_name": "Scholastic TF7504 The Farm Magnetic Pattern Blocks",
+      "score": 0.4774237871170044,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 3,
+      "bbox": [
+        6.715299129486084,
+        160.17967224121094,
+        306.8260498046875,
+        253.98117065429688
+      ],
+      "matched_asin": "0545119367",
+      "product_name": "Scholastic TF7504 The Farm Magnetic Pattern Blocks",
+      "score": 0.4669094979763031,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 4,
+      "bbox": [
+        10.258085250854492,
+        58.882320404052734,
+        356.76617431640625,
+        178.2187042236328
+      ],
+      "matched_asin": "0545119367",
+      "product_name": "Scholastic TF7504 The Farm Magnetic Pattern Blocks",
+      "score": 0.42984554171562195,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    }
+  ]
+}

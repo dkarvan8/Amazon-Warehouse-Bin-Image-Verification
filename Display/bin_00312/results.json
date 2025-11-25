@@ -1,0 +1,21 @@
+{
+  "bin_id": "00312",
+  "expected_items": [
+    {
+      "asin": "B00VANYCBE",
+      "name": "Crocodile Creek Kids Dinosaurs Soccer Ball, Lime Green, 2/5.5\""
+    }
+  ],
+  "expected_count": 1,
+  "detected_count": 0,
+  "correctly_matched": [],
+  "missing_items": [
+    {
+      "asin": "B00VANYCBE",
+      "name": "Crocodile Creek Kids Dinosaurs Soccer Ball, Lime Green, 2/5.5\""
+    }
+  ],
+  "extra_detections": [],
+  "accuracy": 0.0,
+  "match_details": []
+}

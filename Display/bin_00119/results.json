@@ -1,0 +1,117 @@
+{
+  "bin_id": "00119",
+  "expected_items": [
+    {
+      "asin": "B004Q0PN0W",
+      "name": "MTD Genuine Parts 21\" Drive Belt for Walk-Behind Mowers & Snow Throwers (fits 2010 & after)"
+    },
+    {
+      "asin": "B00NJ008MI",
+      "name": "FRAM CA11500 Rigid Panel Air Filter"
+    },
+    {
+      "asin": "B01E670AOS",
+      "name": "Ironwork Kitchen Paper Towel Roll Holder Horse Charlie"
+    }
+  ],
+  "expected_count": 3,
+  "detected_count": 6,
+  "correctly_matched": [
+    {
+      "asin": "B00NJ008MI",
+      "name": "FRAM CA11500 Rigid Panel Air Filter"
+    }
+  ],
+  "missing_items": [
+    {
+      "asin": "B004Q0PN0W",
+      "name": "MTD Genuine Parts 21\" Drive Belt for Walk-Behind Mowers & Snow Throwers (fits 2010 & after)"
+    },
+    {
+      "asin": "B01E670AOS",
+      "name": "Ironwork Kitchen Paper Towel Roll Holder Horse Charlie"
+    }
+  ],
+  "extra_detections": [],
+  "accuracy": 33.33,
+  "match_details": [
+    {
+      "object_id": 5,
+      "bbox": [
+        36.47075271606445,
+        197.06344604492188,
+        414.56915283203125,
+        430.1286315917969
+      ],
+      "matched_asin": "B00NJ008MI",
+      "product_name": "FRAM CA11500 Rigid Panel Air Filter",
+      "score": 0.5132362246513367,
+      "status": "\u2705 CORRECT"
+    },
+    {
+      "object_id": 0,
+      "bbox": [
+        357.62493896484375,
+        182.6377716064453,
+        629.580322265625,
+        438.0292053222656
+      ],
+      "matched_asin": "B00NJ008MI",
+      "product_name": "FRAM CA11500 Rigid Panel Air Filter",
+      "score": 0.5115054845809937,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 1,
+      "bbox": [
+        54.565452575683594,
+        48.190067291259766,
+        489.2655029296875,
+        233.20582580566406
+      ],
+      "matched_asin": "B00NJ008MI",
+      "product_name": "FRAM CA11500 Rigid Panel Air Filter",
+      "score": 0.48036086559295654,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 2,
+      "bbox": [
+        511.9813537597656,
+        295.79010009765625,
+        602.5397338867188,
+        412.3770751953125
+      ],
+      "matched_asin": "B00NJ008MI",
+      "product_name": "FRAM CA11500 Rigid Panel Air Filter",
+      "score": 0.46743878722190857,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 3,
+      "bbox": [
+        49.51365280151367,
+        277.2955627441406,
+        198.05435180664062,
+        412.5029602050781
+      ],
+      "matched_asin": "B00NJ008MI",
+      "product_name": "FRAM CA11500 Rigid Panel Air Filter",
+      "score": 0.4769402742385864,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 4,
+      "bbox": [
+        210.22288513183594,
+        188.8505401611328,
+        626.8190307617188,
+        435.10809326171875
+      ],
+      "matched_asin": "B00NJ008MI",
+      "product_name": "FRAM CA11500 Rigid Panel Air Filter",
+      "score": 0.49670252203941345,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    }
+  ]
+}

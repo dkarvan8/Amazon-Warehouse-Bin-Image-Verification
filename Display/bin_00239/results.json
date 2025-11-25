@@ -1,0 +1,48 @@
+{
+  "bin_id": "00239",
+  "expected_items": [
+    {
+      "asin": "B000BQMWQ8",
+      "name": "American Flag 2 1/2 x 4 ft. Nylon SolarGuard Nyl-Glo by Annin Flagmakers, 100% Made in USA with Sewn Stripes, Embroidered Stars and Banner-Style Pole Sleeve.\u00a0 Model 21850"
+    }
+  ],
+  "expected_count": 1,
+  "detected_count": 2,
+  "correctly_matched": [
+    {
+      "asin": "B000BQMWQ8",
+      "name": "American Flag 2 1/2 x 4 ft. Nylon SolarGuard Nyl-Glo by Annin Flagmakers, 100% Made in USA with Sewn Stripes, Embroidered Stars and Banner-Style Pole Sleeve.\u00a0 Model 21850"
+    }
+  ],
+  "missing_items": [],
+  "extra_detections": [],
+  "accuracy": 100.0,
+  "match_details": [
+    {
+      "object_id": 0,
+      "bbox": [
+        142.42996215820312,
+        10.440141677856445,
+        374.79229736328125,
+        281.9341125488281
+      ],
+      "matched_asin": "B000BQMWQ8",
+      "product_name": "American Flag 2 1/2 x 4 ft. Nylon SolarGuard Nyl-Glo by Annin Flagmakers, 100% Made in USA with Sewn Stripes, Embroidered Stars and Banner-Style Pole Sleeve.\u00a0 Model 21850",
+      "score": 0.34458354115486145,
+      "status": "\u2705 CORRECT"
+    },
+    {
+      "object_id": 1,
+      "bbox": [
+        0.266126424074173,
+        13.813355445861816,
+        66.42208099365234,
+        277.6747131347656
+      ],
+      "matched_asin": "B000BQMWQ8",
+      "product_name": "American Flag 2 1/2 x 4 ft. Nylon SolarGuard Nyl-Glo by Annin Flagmakers, 100% Made in USA with Sewn Stripes, Embroidered Stars and Banner-Style Pole Sleeve.\u00a0 Model 21850",
+      "score": 0.31701743602752686,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    }
+  ]
+}

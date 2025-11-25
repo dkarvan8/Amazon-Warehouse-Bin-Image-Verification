@@ -1,0 +1,78 @@
+{
+  "bin_id": "00161",
+  "expected_items": [
+    {
+      "asin": "B013OVOO6M",
+      "name": "Lumsing 5 ports USB charger: With Intelligent Control Chipset for Smartphones Tablets(Black)"
+    },
+    {
+      "asin": "B011XM4GJO",
+      "name": "iPhone 6S Case,iPhone 6 Case,[4.7inch] by Ailun,Injected&Sealed Bumper,Ultra Transparency,Shock-Absorption,Anti-Scratch&Fingerprints Back Cover,Siania Retail Package[Mint Green]"
+    },
+    {
+      "asin": "B002SB8LLE",
+      "name": "Proctor-Silex Sandwich Maker white"
+    }
+  ],
+  "expected_count": 3,
+  "detected_count": 3,
+  "correctly_matched": [
+    {
+      "asin": "B002SB8LLE",
+      "name": "Proctor-Silex Sandwich Maker white"
+    }
+  ],
+  "missing_items": [
+    {
+      "asin": "B013OVOO6M",
+      "name": "Lumsing 5 ports USB charger: With Intelligent Control Chipset for Smartphones Tablets(Black)"
+    },
+    {
+      "asin": "B011XM4GJO",
+      "name": "iPhone 6S Case,iPhone 6 Case,[4.7inch] by Ailun,Injected&Sealed Bumper,Ultra Transparency,Shock-Absorption,Anti-Scratch&Fingerprints Back Cover,Siania Retail Package[Mint Green]"
+    }
+  ],
+  "extra_detections": [],
+  "accuracy": 33.33,
+  "match_details": [
+    {
+      "object_id": 0,
+      "bbox": [
+        46.252079010009766,
+        0.0,
+        280.7575378417969,
+        452.59210205078125
+      ],
+      "matched_asin": "B002SB8LLE",
+      "product_name": "Proctor-Silex Sandwich Maker white",
+      "score": 0.5229483246803284,
+      "status": "\u2705 CORRECT"
+    },
+    {
+      "object_id": 1,
+      "bbox": [
+        27.155582427978516,
+        217.47134399414062,
+        275.9374694824219,
+        444.8387145996094
+      ],
+      "matched_asin": "B002SB8LLE",
+      "product_name": "Proctor-Silex Sandwich Maker white",
+      "score": 0.46468159556388855,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    },
+    {
+      "object_id": 2,
+      "bbox": [
+        258.4864501953125,
+        325.55023193359375,
+        550.50244140625,
+        459.28271484375
+      ],
+      "matched_asin": "B002SB8LLE",
+      "product_name": "Proctor-Silex Sandwich Maker white",
+      "score": 0.41360530257225037,
+      "status": "\u26a0\ufe0f DUPLICATE"
+    }
+  ]
+}
