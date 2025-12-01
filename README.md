@@ -57,19 +57,6 @@ Select a bin from dropdown to view pre-computed verification results.
 3. System scrapes references, detects objects, matches with CLIP+OCR
 4. Download results
 
-**Metadata Format**:
-```json
-{
-  "BIN_FCSKU_DATA": {
-    "item1": {
-      "asin": "B000C33MI2",
-      "name": "Product Name",
-      "quantity": 1
-    }
-  }
-}
-```
-
 ---
 
 ## Performance
