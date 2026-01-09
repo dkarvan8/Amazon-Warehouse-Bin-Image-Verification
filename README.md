@@ -103,6 +103,8 @@ Select a bin from dropdown to view pre-computed verification results.
 
 ## Author
 
+**Deekshitha**
+Github: [@dkarvan8](https://github.com/dkarvan8)
 **Hridayx**  
 GitHub: [@Hridayx](https://github.com/Hridayx)
 
